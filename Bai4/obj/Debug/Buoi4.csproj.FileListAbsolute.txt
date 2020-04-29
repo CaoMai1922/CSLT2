@@ -1,0 +1,5 @@
+D:\VisualStudio\Buoi4\bin\Debug\Buoi4.exe
+D:\VisualStudio\Buoi4\bin\Debug\Buoi4.pdb
+D:\VisualStudio\Buoi4\obj\Debug\Buoi4.exe
+D:\VisualStudio\Buoi4\obj\Debug\Buoi4.pdb
+D:\VisualStudio\Buoi4\obj\Debug\Buoi4.csprojAssemblyReference.cache
