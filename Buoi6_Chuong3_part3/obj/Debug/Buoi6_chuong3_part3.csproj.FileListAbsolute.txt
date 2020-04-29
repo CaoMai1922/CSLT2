@@ -1,0 +1,5 @@
+D:\VisualStudio\Buoi6_chuong3_part3\bin\Debug\Buoi6_chuong3_part3.exe
+D:\VisualStudio\Buoi6_chuong3_part3\bin\Debug\Buoi6_chuong3_part3.pdb
+D:\VisualStudio\Buoi6_chuong3_part3\obj\Debug\Buoi6_chuong3_part3.exe
+D:\VisualStudio\Buoi6_chuong3_part3\obj\Debug\Buoi6_chuong3_part3.pdb
+D:\VisualStudio\Buoi6_chuong3_part3\obj\Debug\Buoi6_chuong3_part3.csprojAssemblyReference.cache

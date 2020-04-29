@@ -1,0 +1,5 @@
+D:\VisualStudio\Chuong1\bin\Debug\CHUONG1.exe
+D:\VisualStudio\Chuong1\bin\Debug\CHUONG1.pdb
+D:\VisualStudio\Chuong1\obj\Debug\CHUONG1.csprojAssemblyReference.cache
+D:\VisualStudio\Chuong1\obj\Debug\CHUONG1.exe
+D:\VisualStudio\Chuong1\obj\Debug\CHUONG1.pdb

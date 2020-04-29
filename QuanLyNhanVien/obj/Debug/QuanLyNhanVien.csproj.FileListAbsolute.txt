@@ -1,0 +1,5 @@
+D:\VisualStudio\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\VisualStudio\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\VisualStudio\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\VisualStudio\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\VisualStudio\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojAssemblyReference.cache
